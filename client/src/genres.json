@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Action"
+    },
+    {
+        "id": 2,
+        "name": "Adventure"
+    },
+    {
+        "id": 3,
+        "name":  "Animated"
+    },
+    {
+        "id": 4,
+        "name":  "Biography"
+    },
+    {
+        "id": 5,
+        "name":  "Comedy"
+    },
+    {
+        "id": 6,
+        "name":  "Crime" 
+    },
+    {
+        "id": 7,
+        "name":  "Dance" 
+    },
+    {
+        "id": 8,
+        "name":  "Disaster" 
+    },
+   
+    
+   
+   
+    
+   
+   
+   
+    "Documentary",
+    "Drama",
+    "Erotic",
+    "Family",
+    "Fantasy",
+    "Found Footage",
+    "Historical",
+    "Horror",
+    "Independent",
+    "Legal",
+    "Live Action",
+    "Martial Arts",
+    "Musical",
+    "Mystery",
+    "Noir",
+    "Performance",
+    "Political",
+    "Romance",
+    "Satire",
+    "Science Fiction",
+    "Short",
+    "Silent",
+    "Slasher",
+    "Sports",
+    "Spy",
+    "Superhero",
+    "Supernatural",
+    "Suspense",
+    "Teen",
+    "Thriller",
+    "War",
+    "Western"
+]
